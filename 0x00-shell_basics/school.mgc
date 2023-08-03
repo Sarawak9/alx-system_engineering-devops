@@ -2,3 +2,4 @@
 0	string SCHOOL School data file
 file -C -m school.magic school.mgc
 file -m school.mgc <path_to_school_data_file>
+! :mime School
